@@ -7,7 +7,7 @@ import mutagen
 from mutagen.easyid3 import EasyID3
 from mutagen.id3 import ID3, APIC
 
-class FindSong:
+class SongFind:
     def __init__(self, parent):
         self.parent = parent
         self.files = []
@@ -209,5 +209,5 @@ class FindSong:
 
 if __name__ == '__main__':
     app = wx.App()
-    FindSong(None).Show()
+    SongFind(None).Show()
     app.MainLoop()

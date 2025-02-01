@@ -1,7 +1,7 @@
-# FindSong
+# SongFind
 
 
-![FindSong Screenshot](resources/screenshot.png)
+![SongFind Screenshot](resources/screenshot.png)
 
 A cross-platform music identification application for power users. Super accurate through the Shazam API, and does everything you would ever want - and more!
 
