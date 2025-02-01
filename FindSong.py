@@ -1,7 +1,5 @@
 import wx
 import requests
-import os
-import sys
 import json
 from io import BytesIO
 import support.shazamsupport as shazamsupport
