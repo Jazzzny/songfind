@@ -1,9 +1,10 @@
 # SongFind
 
 
-![SongFind Screenshot](resources/screenshot.png)
+![SongFind Screenshot](https://github.com/Jazzzny/songfind/blob/master/resources/screenshot.png?raw=true)
 
 A cross-platform music identification application for power users. Super accurate through the Shazam API, and does everything you would ever want - and more!
+
 
 ## Features
 - Batch music identification with directory selection
